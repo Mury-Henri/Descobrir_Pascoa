@@ -1,4 +1,4 @@
-# Calculador de Páscoa e Gerador de Calendário Anual
+# Páscoa e Gerador de Calendário Anual
 
 Este projeto em **C** calcula a data do Domingo de Páscoa para qualquer ano fornecido e gera o **calendário completo** dos 12 meses desse ano no terminal, levando em consideração anos bissextos e o alinhamento correto dos dias da semana.
 
